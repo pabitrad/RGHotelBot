@@ -1,0 +1,70 @@
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\TestBotConsole.exe.config
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\TestBotConsole.exe
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\TestBotConsole.pdb
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\BOTManager.BL.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\BOTManager.Entities.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\RG.Core.Entities.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\RG.Data.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\RG.Utility.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\RGLog4net.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\BOTManager.BL.pdb
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\BOTManager.Entities.pdb
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\RG.Core.Entities.pdb
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\RG.Data.pdb
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\bin\Debug\RG.Utility.pdb
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.csprojResolveAssemblyReference.cache
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.exe
+D:\RG.PriceGainHotel.Bots\V21\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.pdb
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\TestBotConsole.exe.config
+D:\V2.1\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.exe
+D:\V2.1\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.pdb
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\TestBotConsole.exe
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\TestBotConsole.pdb
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\BOTManager.BL.dll
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\BOTManager.Entities.dll
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Core.Entities.dll
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Data.dll
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Utility.dll
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\RGLog4net.dll
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\BOTManager.BL.pdb
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\BOTManager.Entities.pdb
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Core.Entities.pdb
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Data.pdb
+D:\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Utility.pdb
+D:\V2.1\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.csprojResolveAssemblyReference.cache
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\TestBotConsole.exe.config
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.exe
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.pdb
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\TestBotConsole.exe
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\TestBotConsole.pdb
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\BOTManager.BL.dll
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\BOTManager.Entities.dll
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Core.Entities.dll
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Data.dll
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Utility.dll
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\RGLog4net.dll
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\BOTManager.BL.pdb
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\BOTManager.Entities.pdb
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Core.Entities.pdb
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Data.pdb
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\bin\Debug\RG.Utility.pdb
+C:\Users\pabitra\Google Drive\Projects\Subhra\Attachments_201645\V2.1\V2.1\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.csprojResolveAssemblyReference.cache
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\TestBotConsole.exe.config
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\TestBotConsole.exe
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\TestBotConsole.pdb
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\BOTManager.BL.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\BOTManager.Entities.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\RG.Core.Entities.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\RG.Data.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\RG.Utility.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\RGLog4net.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\BOTManager.BL.pdb
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\BOTManager.Entities.pdb
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\RG.Core.Entities.pdb
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\RG.Data.pdb
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\bin\Debug\RG.Utility.pdb
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.csprojResolveAssemblyReference.cache
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.exe
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\TestBotConsole\obj\x86\Debug\TestBotConsole.pdb

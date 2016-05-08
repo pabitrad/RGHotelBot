@@ -1,0 +1,23 @@
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Release\Hotelopia.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Release\Hotelopia.pdb
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Release\BOTManager.Entities.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Release\RG.Core.Entities.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Release\RG.Utility.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Release\Newtonsoft.Json.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Release\RGLog4net.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Release\BOTManager.Entities.pdb
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Release\RG.Core.Entities.pdb
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Release\RG.Utility.pdb
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Release\Newtonsoft.Json.xml
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\obj\Release\Hotelopia.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\obj\Release\Hotelopia.pdb
+D:\V2.1\Hotelopia\bin\Release\Hotelopia.dll
+D:\V2.1\Hotelopia\bin\Release\Hotelopia.pdb
+D:\V2.1\Hotelopia\obj\Release\Hotelopia.csprojResolveAssemblyReference.cache
+D:\V2.1\Hotelopia\obj\Release\Hotelopia.dll
+D:\V2.1\Hotelopia\obj\Release\Hotelopia.pdb
+E:\Projects\Direct\Rate Gain\Source Code\Hotelopia\bin\Release\Hotelopia.dll
+E:\Projects\Direct\Rate Gain\Source Code\Hotelopia\bin\Release\Hotelopia.pdb
+E:\Projects\Direct\Rate Gain\Source Code\Hotelopia\obj\Release\Hotelopia.csprojResolveAssemblyReference.cache
+E:\Projects\Direct\Rate Gain\Source Code\Hotelopia\obj\Release\Hotelopia.dll
+E:\Projects\Direct\Rate Gain\Source Code\Hotelopia\obj\Release\Hotelopia.pdb

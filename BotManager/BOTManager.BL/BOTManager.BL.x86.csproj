@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{199F8378-4317-4720-8A65-E5283007D60E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BOTManager.BL</RootNamespace>
+    <AssemblyName>BOTManager.BL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataServiceClient.cs" />
+    <Compile Include="Loader.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RGCrawlManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StorageService.cs" />
+    <Compile Include="ThrottleServiceClient.cs" />
+    <Compile Include="TPCLD.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CoreService\RG.Core.Entities\RG.Core.Entities.x86.csproj">
+      <Project>{E9E5CA0F-EF0A-4B90-AB81-3E5E8824CA33}</Project>
+      <Name>RG.Core.Entities.x86</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CoreService\RG.Utility\RG.Utility.x86.csproj">
+      <Project>{6444A4CC-04F4-49AE-9C84-8EBCBA3F3FE7}</Project>
+      <Name>RG.Utility.x86</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BotManager.DbAccess\BotManager.DbAccess.x86.csproj">
+      <Project>{9D2D615A-9604-4FD8-B9AF-83D096125EF2}</Project>
+      <Name>BotManager.DbAccess.x86</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BOTManager.Entities\BOTManager.Entities.x86.csproj">
+      <Project>{128EE4BA-8488-41F0-B5E4-5B9A15F38BFC}</Project>
+      <Name>BOTManager.Entities.x86</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

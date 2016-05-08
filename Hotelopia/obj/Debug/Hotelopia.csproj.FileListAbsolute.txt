@@ -1,0 +1,18 @@
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Debug\Hotelopia.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Debug\Hotelopia.pdb
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Debug\BOTManager.Entities.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Debug\RG.Core.Entities.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Debug\RG.Utility.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Debug\Newtonsoft.Json.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Debug\RGLog4net.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Debug\BOTManager.Entities.pdb
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Debug\RG.Core.Entities.pdb
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Debug\RG.Utility.pdb
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\bin\Debug\Newtonsoft.Json.xml
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\obj\Debug\Hotelopia.dll
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\obj\Debug\Hotelopia.pdb
+D:\RG.PriceGainHotel.Bots\V21\Bots\Hotelopia\obj\Debug\Hotelopia.csprojResolveAssemblyReference.cache
+E:\Projects\Direct\Rate Gain\Source Code\Hotelopia\bin\Debug\Hotelopia.dll
+E:\Projects\Direct\Rate Gain\Source Code\Hotelopia\bin\Debug\Hotelopia.pdb
+E:\Projects\Direct\Rate Gain\Source Code\Hotelopia\obj\Debug\Hotelopia.dll
+E:\Projects\Direct\Rate Gain\Source Code\Hotelopia\obj\Debug\Hotelopia.pdb

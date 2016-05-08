@@ -1,0 +1,28 @@
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\bin\Debug\BOTManager.BL.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\bin\Debug\BOTManager.BL.pdb
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\bin\Debug\BOTManager.Entities.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\bin\Debug\RG.Core.Entities.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\bin\Debug\RG.Utility.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\bin\Debug\Newtonsoft.Json.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\bin\Debug\RGLog4net.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\bin\Debug\BOTManager.Entities.pdb
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\bin\Debug\RG.Core.Entities.pdb
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\bin\Debug\RG.Utility.pdb
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\bin\Debug\Newtonsoft.Json.xml
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\obj\Debug\BOTManager.BL.csprojResolveAssemblyReference.cache
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\obj\Debug\BOTManager.BL.dll
+D:\RG.PriceGainHotel.Bots\V21\BotManager\BOTManager.BL\obj\Debug\BOTManager.BL.pdb
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\bin\Debug\BOTManager.BL.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\bin\Debug\BOTManager.BL.pdb
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\bin\Debug\BOTManager.Entities.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\bin\Debug\RG.Core.Entities.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\bin\Debug\RG.Utility.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\bin\Debug\RGLog4net.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\bin\Debug\BOTManager.Entities.pdb
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\bin\Debug\RG.Core.Entities.pdb
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\bin\Debug\RG.Utility.pdb
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\obj\Debug\BOTManager.BL.csprojResolveAssemblyReference.cache
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\obj\Debug\BOTManager.BL.dll
+E:\Projects\Direct\Rate Gain\Source Code\BotManager\BOTManager.BL\obj\Debug\BOTManager.BL.pdb
